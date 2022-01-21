@@ -4,11 +4,11 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/craftzdog/react-native-animated-todo.git"
+    "url": "git+https://github.com/aadipoddar/react-native-animated-todo.git"
   },
   "author": {
-    "name": "Takuya Matsuyama",
-    "url": "https://www.craftz.dog/"
+    "name": "Aadi Poddar",
+    "url": "https://github.com/aadipoddar/"
   },
   "license": "MIT",
   "keywords": [
